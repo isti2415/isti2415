@@ -35,20 +35,6 @@ src="https://img.shields.io/github/followers/isti2415?logo=github&style=for-the-
 
 <a href="https://github.com/isti2415" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isti2415&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div style="width: 100%; text-align: center;">
-    <a href="https://github.com/isti2415/gardenr" style="width: 48%; display: inline-block;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=isti2415&repo=gardenr&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-  <br>
-    <a href="https://github.com/isti2415/researchsync" style="width: 48%; display: inline-block;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=isti2415&repo=researchsync&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-    <br>
-    <a href="https://github.com/isti2415/Simulating-the-operations-at-DESCO" style="width: 48%; display: inline-block;">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=isti2415&repo=Simulating-the-operations-at-DESCO&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
   <br>
     <a href="https://github.com/isti2415/Web-Applications-BudgetBuddy" style="width: 48%; display: inline-block;">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=isti2415&repo=Web-Applications-BudgetBuddy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
